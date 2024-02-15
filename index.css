@@ -30,7 +30,7 @@ section img {
 #evangelismo img {
     height: 400px;
 }
-#evangelismo,#fale-conosco,#sobre  {
+#catalogo-de-biblias,#verciculo  {
     background-color: rgba(0, 153, 255, 0.185);
 }
 #catalogo-de-biblias img {
@@ -51,6 +51,9 @@ form .btn {
     color: #fff;
 }
 @media(max-width:767px){
+    #sobre img {
+        height: 400px;
+    }
     #evangelismo img {
         height: 150px;
     }
