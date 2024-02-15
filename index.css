@@ -6,6 +6,9 @@
     background-color: #fff;
     margin-bottom: 8px;
 }
+#cabecalho h1 {
+    align-items: center;
+}
 #menu {
     text-transform: uppercase;
 }
