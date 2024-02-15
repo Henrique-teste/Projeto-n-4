@@ -58,7 +58,7 @@ form .btn {
     color: #fff;
 }
 @media(max-width:767px){
-    #sobre img {
+    #ex-sobre #img-sobre{
         height: 300px;
     }
     #evangelismo img {
@@ -79,7 +79,7 @@ form .btn {
     #catalogo-de-biblias img {
         height: 200px;
     }
-    #sobre img {
+    #ex-sobre #img-sobre{
         height: 400px;
     }
 }
