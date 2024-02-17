@@ -9,6 +9,9 @@
 #cabecalho h1 {
     align-items: center;
 }
+#cabecalho img {
+    height: 500px;
+}
 #menu {
     text-transform: uppercase;
 }
