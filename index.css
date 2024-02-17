@@ -9,9 +9,6 @@
 #cabecalho h1 {
     align-items: center;
 }
-#cabecalho img {
-    height: 500px;
-}
 #menu {
     text-transform: uppercase;
 }
@@ -61,6 +58,9 @@ form .btn {
     color: #fff;
 }
 @media(max-width:767px){
+    #sobre img{
+        height: 300px;
+    }
     #ex-sobre #img-sobre{
         height: 300px;
     }
